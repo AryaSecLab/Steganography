@@ -1,5 +1,5 @@
 # Steganography
-free tools of hidding messages underneath a file
+free tools of hidding messages underneath a file:
 
 Stegosuite > you can easily hide confidential information in image files.     
 
